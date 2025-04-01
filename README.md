@@ -13,4 +13,4 @@ The game presents a 3x3 grid of buttons. Every second, a Monty Mole (mole icon) 
 
 ## 🎥 Demo
 
-![Game Demo](./assets/gameplay.gif)
+![Game Demo](./src/assets/gameplay.gif)
